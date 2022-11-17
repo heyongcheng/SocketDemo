@@ -1,4 +1,4 @@
-package org.example.netty.client;
+package org.example.netty.time.client;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
